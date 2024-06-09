@@ -66,5 +66,5 @@ Weighted Avg F1-Score: 0.86
 Logistic Regression achieved the highest accuracy (89.46%) and performed well across multiple metrics.
 Although other models such as Gradient Boosting and Random Forest also showed strong performance, Logistic Regression was the most balanced in terms of precision, recall, and F1-score.
 
-##Conclusion
+## Conclusion
 Logistic Regression is the most effective model for predicting employee attrition in this study, demonstrating a strong balance between accuracy and other performance metrics. These predictive models can help organizations identify potential attrition risks and take proactive measures to retain valuable employees.
